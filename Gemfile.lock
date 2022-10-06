@@ -13,7 +13,7 @@ GEM
       ruby2_keywords (>= 0.0.4)
     faraday-excon (1.1.0)
     faraday-net_http (1.0.1)
-    faraday-net_http_persistent (1.1.0)
+    faraday-net_http_persistent (1.2.0)
     fastimage (2.2.4)
     method_source (1.0.0)
     minitest (5.14.4)
