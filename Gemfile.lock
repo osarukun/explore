@@ -31,7 +31,8 @@ GEM
     rainbow (3.0.0)
     rake (13.0.3)
     regexp_parser (2.1.1)
-    rexml (3.2.5)
+    rexml (3.3.4)
+      strscan
     rubocop (1.17.0)
       parallel (~> 1.10)
       parser (>= 3.0.0.0)
@@ -52,6 +53,7 @@ GEM
     sawyer (0.8.2)
       addressable (>= 2.3.5)
       faraday (> 0.8, < 2.0)
+    strscan (3.1.0)
     unicode-display_width (2.0.0)
 
 PLATFORMS
